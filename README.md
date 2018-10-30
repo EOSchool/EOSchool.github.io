@@ -1,11 +1,9 @@
-# Curriculum
-
-
-How to Build a Decentralised Application
+# Welcome to EOS School Curriculum
 
 ## Module 1
-1. What is a dApp?
-2. Why do we need dApps?
+How to Build a Decentralised Application
+What is a dApp?
+Why do we need dApps?
 What are some of the dApps in existence?
 Which languages have been used to create dApps?
 Most popular programming languages
