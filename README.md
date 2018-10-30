@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Curriculum
 
-You can use the [editor on GitHub](https://github.com/EOSchool/EOSchool.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How to Build a Decentralised Application
 
-### Markdown
+## Module 1
+1. What is a dApp?
+2. Why do we need dApps?
+What are some of the dApps in existence?
+Which languages have been used to create dApps?
+Most popular programming languages
+Most used programming languages in EOSIO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Module 2
+Highlight on C++ as a language, and some apps built on it
+Why C++ (importance of its use over other languages)
+C++ for EOS (1)
+C++ for EOS (2)
+C++ for EOS (3)
 
-```markdown
-Syntax highlighted code block
+## Module 3
+Basics of blockchain (definitions) and how a blockchain works
+Different types of blockchains and their consensus mechanisms
 
-# Header 1
-## Header 2
-### Header 3
+## Module 4
+EOS.IO -how it works & what you’ll need to set it up (RAM, etc)
+Setting up the EOS.IO software
+Interacting with EOS.IO -the language & environment
+Setting up the EOS Launcher and node
 
-- Bulleted
-- List
+## Module 5
+What is a smart contract?
+How does a smart contract work?
+Building your first smart contract
+Reviewing similar smart contracts
 
-1. Numbered
-2. List
+## Module 6
+An exchange contract
+A social contract
+## Module 7
+Using Mongo DB and plugins
 
-**Bold** and _Italic_ and `Code` text
+## Module 8
+Nodeos
+Troubleshooting
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EOSchool/EOSchool.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Module 9
+Viable blockchain use cases
